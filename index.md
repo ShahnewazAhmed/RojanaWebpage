@@ -1,4 +1,4 @@
-# <span style="color:blue">About</span>
+# <span style="color:#33bbff">About</span>
 
 ## Welcome to Rojana Binte Azad's Website
 
@@ -16,7 +16,7 @@ With a solid foundation in agricultural science and biotechnology, I have spearh
 - Quantitative evolutionary microbiology
 
 
-# <span style="color:blue">Research</span>
+# <span style="color:#33bbff">Research</span>
 
 ## Overview of My Research
 
@@ -33,7 +33,7 @@ I contributed to a mutation breeding project, where we screened M4-generation wh
 I have collaborated with researchers in Japan and Canada to genotype advanced wheat lines, expanding the scope and impact of my work on global agricultural challenges.
 
 
-# <span style="color:blue">Academics</span>
+# <span style="color:#33bbff">Academics</span>
 
 ## Work Experience
 
