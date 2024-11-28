@@ -1,9 +1,16 @@
 # About
 
-This is the personal website of Sowmitra Das (-Sumit-). I am a **Visiting Researcher in Theoretical Quantum Information Sciences** at Imperial College London, and a **Senior Lecturer** at the School of Data and Sciences at BRAC University. I work in Quantum Information Theory and Quantum Computation, and am currently looking for PhD positions. 
+## Welcome to Rojana Binte Azad's Website
 
-My current interests lie in bridging the gap between the NISQ era and the Fault-Tolerance era of Quantum Computing. As such, my specific interests are in the fields of Quantum Error Correction, Mitigation and Hybrid Quantum-Classical Computation. I am also interested in developing high-level programming primitives for designing next-generation Quantum Algorithms. 
+Hello! I am Rojana Binte Azad, a passionate researcher in microbiology and molecular genetics with a deep commitment to advancing agricultural and biological sciences. My journey began with a fascination for biological systems, leading me to pursue academic and research excellence in plant genetics, microbial interactions, and disease resistance.
 
-I teach Quantum Computing courses at BRAC University. In the past, I have also worked on designing (classical :stuck_out_tongue:) neural networks and training algorithms for image classification tasks. 
+With a solid foundation in agricultural science and biotechnology, I have spearheaded projects aimed at improving wheat blast resistance and managing fungal pathogens. As the first woman in my family to pursue a PhD, I aim to inspire future generations to see research as both achievable and transformative. In the future, I hope to explore the molecular mechanisms of biological systems and contribute to innovative solutions for global challenges.
 
-You can find links to all of my activities on the sidebar. 
+---
+
+### My Interests
+- Molecular biology and genetics  
+- Plant-pathogen interactions  
+- Sustainable agricultural solutions  
+- CRISPR and genome editing technologies  
+- Quantitative evolutionary microbiology  
