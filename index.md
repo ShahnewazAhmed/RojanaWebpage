@@ -22,7 +22,7 @@ With a solid foundation in agricultural science and biotechnology, I have spearh
 
 ## Current Work
 
-I am currently working on a research project with [Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam), ..................
+I am currently working on a research project with [Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam), ..................
 
 ### **Blast Resistance in Wheat**
 I have dedicated significant efforts to developing wheat varieties resistant to blast disease. My master’s thesis focused on integrating the *Rmg8* resistance gene from winter wheat (genotype S-615) into the Bangladeshi spring wheat variety BARI Gom 33. Through bioassays and marker-assisted screening, I successfully developed resistant lines, making it the first deployment of *Rmg8*-integrated wheat in Bangladesh. This project was funded by the Research Management Wing (RMW) at BSMRAU, where I served as the Principal Investigator.
@@ -42,7 +42,7 @@ I have collaborated with researchers in Japan and Canada to genotype advanced wh
 Islam, T., **Azad, R.B**. . Nat. Plants 10, 836–837 (2024). 
 
 2. [Horizontal gene transfer from plant to whitefly.](https://doi.org/10.1016/j.tibtech.2023.01.007)
-Islam, T., Azad, R. B., Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). Trends in Biotechnology, 41(7), 853-856.
+Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). Trends in Biotechnology, 41(7), 853-856.
 
 
 # <span style="color:#33bbff">Academics</span>
@@ -53,7 +53,7 @@ Islam, T., Azad, R. B., Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). Trend
       - Principal Investigator 
          - I led the development of blast-resistant wheat varieties through bioassays, field tests, and marker-assisted breeding.
   
-   - [Institute of Biotechnology and Genetic Engineering (IBGE), BSMRAU](https://ibge.bsmrau.edu.bd/) - (_January 2022 - December 2024_)
+- [Institute of Biotechnology and Genetic Engineering (IBGE), BSMRAU](https://ibge.bsmrau.edu.bd/) - (_January 2022 - December 2024_)
       - Research Assistant (RA) under [Dr. Tofazzal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)
            - I conducted pathogen characterization, fungal management research, and resistance screening.  
 
@@ -65,7 +65,7 @@ Islam, T., Azad, R. B., Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). Trend
 
    - **Master of Science, Biotechnology and Genetic Engineering from Institute of Biotechnology and Genetic Engineering (IBGE), BSMRAU** - (_January 2022 - December 2024_)
    - Academic Thesis: Resistance and yield performance on advanced wheat lines carrying 2NS translocation and _RMG8_ gene
-      - CGPA: 4.00/4.00 (Ranked .... in my major)
+      - CGPA: 4.00/4.00 (Ranked .... )
 
 ### Undergraduate  
 
