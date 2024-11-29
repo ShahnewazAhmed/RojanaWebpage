@@ -46,9 +46,9 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 
 ## Presentations
 
-1. [Blast disease resistance of wheat genotypes carrying blast resistance genes _RMG8_, _RMGGR119_, and _2NS_ translocation in the field.](https://doi.org/10.13140/RG.2.2.30677.23521) Ali, J., Haque, A., **Azad, R.**, Gupta, D., & Islam, T., 5th International Conference on Biotechnology in Health and Agriculture (ICBHA) 2023" Biotechnology for Sustainable Development in Agriculture, Environment and Health" Poster Presentation-Young Emerging Scientist (2023).
+1. [Blast disease resistance of wheat genotypes carrying blast resistance genes _Rmg8_, _Rmggr119_, and _2NS_ translocation in the field.](https://doi.org/10.13140/RG.2.2.30677.23521) Ali, J., Haque, A., **Azad, R.**, Gupta, D., & Islam, T., 5th International Conference on Biotechnology in Health and Agriculture (ICBHA) 2023" Biotechnology for Sustainable Development in Agriculture, Environment and Health" Poster Presentation-Young Emerging Scientist (2023).
 
-2. [Development of a durable blast resistant wheat variety by stacking of blast-resistance genes, rmg8 and 2ns translocation.](https://www.researchgate.net/publication/383213182_Development_of_a_Durable_Blast_Resistant_Wheat_Variety_by_Stacking_of_blast-resistance_genes_Rmg8_and_2NS_Translocation) **Azad, R.**, Muzahid, A., Muzahid, M., Roy, C., Al, A., Rahat, A., Haque, A., Gupta, D., Gupta, & Islam, T., 5th International Conference on Biotechnology in Health and Agriculture (ICBHA) 2023" Biotechnology for Sustainable Development in Agriculture, Environment and Health" Oral Presentation-Young Emerging Scientist (2023).
+2. [Development of a durable blast resistant wheat variety by stacking of blast-resistance genes, _Rmg8_ and _2NS_ translocation.](https://www.researchgate.net/publication/383213182_Development_of_a_Durable_Blast_Resistant_Wheat_Variety_by_Stacking_of_blast-resistance_genes_Rmg8_and_2NS_Translocation) **Azad, R.**, Muzahid, A., Muzahid, M., Roy, C., Al, A., Rahat, A., Haque, A., Gupta, D., Gupta, & Islam, T., 5th International Conference on Biotechnology in Health and Agriculture (ICBHA) 2023" Biotechnology for Sustainable Development in Agriculture, Environment and Health" Oral Presentation-Young Emerging Scientist (2023).
 
 3.  [Marker-assisted breeding for a durable blast resistant wheat variety by introgression of _RMG8_ gene into bari gom-33 carrying a _2NS_ translocation.](https://www.researchgate.net/publication/370943598_Marker-assisted_breeding_for_a_durable_blast_resistant_wheat_variety_by_introgression_of_Rmg8_gene_into_BARI_Gom-33_carrying_a_2NS_translocation) **Azad, R.**, Muzahid, A., Roy, P., Rahat, A., Haque, M., Gupta, D., & Islam, T., 5th Young Scientist Congress 25-27 November, 2022, Bangladesh Academy of Sciences, Dhaka - "Young Scientist for Health and Environment" Poster Presentation (2022).
 
@@ -56,11 +56,11 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 
 ## Work Experience
 
-- [Research Management Wing (RMW), BSMRAU](https://www.researchgate.net/profile/Rojana-Azad) - (_January 2023 - July 2024_)
+- [Research Management Wing (RMW), Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU)](https://www.researchgate.net/profile/Rojana-Azad) - (_January 2023 - July 2024_)
   - Principal Investigator 
   - I led the development of blast-resistant wheat varieties through bioassays, field tests, and marker-assisted breeding.
   
-- [Institute of Biotechnology and Genetic Engineering (IBGE), BSMRAU](https://ibge.bsmrau.edu.bd/) - (_January 2022 - December 2024_)
+- [Institute of Biotechnology and Genetic Engineering (IBGE), Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU)](https://ibge.bsmrau.edu.bd/) - (_January 2022 - December 2024_)
   - Research Assistant (RA) under [Dr. Tofazzal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)
   - I conducted pathogen characterization, fungal management research, and resistance screening.  
 
@@ -70,7 +70,7 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 
 ### Graduate  
 
-   - **Master of Science, Biotechnology and Genetic Engineering from Institute of Biotechnology and Genetic Engineering (IBGE), BSMRAU** - (_January 2022 - December 2024_)
+   - **Master of Science, Biotechnology and Genetic Engineering from Institute of Biotechnology (IBGE), Bangabandhu Sheikh Mujibur Rahman Agricultural University BSMRAU** - (_January 2022 - December 2024_)
         - Academic Thesis: Resistance and yield performance on advanced wheat lines carrying 2NS translocation and _RMG8_ gene
         - CGPA: 4.00/4.00 (Ranked .... )
 
