@@ -70,13 +70,15 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 
 ### Graduate  
 
-   - **Master of Science, Biotechnology and Genetic Engineering from Institute of Biotechnology (IBGE), Bangabandhu Sheikh Mujibur Rahman Agricultural University BSMRAU** - (_January 2022 - December 2024_)
+   - ** Master of Science, Biotechnology and Genetic Engineering ** - (_January 2022 - December 2024_)
+   - Institute of Biotechnology (IBGE), Bangabandhu Sheikh Mujibur Rahman Agricultural University BSMRAU 
         - Academic Thesis: Resistance and yield performance on advanced wheat lines carrying 2NS translocation and _RMG8_ gene
         - CGPA: 4.00/4.00 (Ranked .... )
 
 ### Undergraduate  
 
-   - **Bachelor of Science, Agriculture from Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU)** - (_January 2017 - December 2021_)
+   - **Bachelor of Science, Agriculture** - (_January 2017 - December 2021_)
+   -  Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU)** 
       - CGPA: 3.88/4.00 (Ranked .... in my major, top ... across all majors in the Faculty of Agriculture)
    
 ---
