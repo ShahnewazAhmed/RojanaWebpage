@@ -41,17 +41,17 @@ I have collaborated with researchers in Japan and Canada to genotype advanced wh
 
 ## Publications & Preprints
 
-1. [Rmg8 gene against wheat blast.](https://doi.org/10.1038/s41477-024-01690-3)
-Islam, T., **Azad, R.B**. . Nat. Plants 10, 836–837 (2024).
+1. [Rmg8 gene against wheat blast.](https://doi.org/10.1038/s41477-024-01690-3) Islam, T., **Azad, R.B**. . Nat. Plants 10, 836–837 (2024). <details>
+    <summary>**Abstract**</summary>
+    Characterization of _Rmg8_, the major resistancegene for wheat blast found in common wheat,brought a surprise: it is a variant of _Pm4_, aresistance gene for powdery mildew disease. Both genes recognize the AVR-_Rmg8_ gene ofthe wheat blast fungus _Magnaporthe oryzaepathotype Triticum_ (MoT), which resultsin resistance against this pathogen. This discovery opens avenues for developing wheatvarieties to combat wheat blast disease. 
+  </details>
 
-<details>
-    <summary>Abstract</summary>
-    Characterization of Rmg8, the major resistancegene for wheat blast found in common wheat,brought a surprise: it is a variant of Pm4, aresistance gene for powdery mildew disease.Both genes recognize the AVR-Rmg8 gene ofthe wheat blast fungus Magnaporthe oryzaepathotype Triticum (MoT), which resultsin resistance against this pathogen. Thisdiscovery opens avenues for developing wheatvarieties to combat wheat blast disease. 
-  
-</details>
 
-3. [Horizontal gene transfer from plant to whitefly.](https://doi.org/10.1016/j.tibtech.2023.01.007)
-Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). Trends in Biotechnology, 41(7), 853-856.
+2. [Horizontal gene transfer from plant to whitefly.](https://doi.org/10.1016/j.tibtech.2023.01.007)
+Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). Trends in Biotechnology, 41(7), 853-856. <details>
+    <summary>**Abstract**</summary>
+    The recent discovery of the horizontal transfer of a toxin-neutralizing gene from plant to whitefly (_Bemisia tabaci_), a polyphagous insect, sparked a new area of study. In this forum, we discuss some potential biotechnological applications of this newly discovered knowledge in the coevolutionary arms race between plants and whitefly.
+  </details>
 
 ## Presentations
 
