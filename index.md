@@ -26,7 +26,7 @@ I am currently working on a research project with [Dr. Toffazal Islam](https://e
 
 ### **Blast Resistance in Wheat**
 I have dedicated significant efforts to developing wheat varieties resistant to blast disease. My master’s thesis focused on integrating the *Rmg8* resistance gene from winter wheat (genotype S-615) into the Bangladeshi spring wheat variety BARI Gom 33. Through bioassays and marker-assisted screening, I successfully developed resistant lines, making it the first deployment of *Rmg8*-integrated wheat in Bangladesh. This project was funded by the Research Management Wing (RMW) at BSMRAU, where I served as the Principal Investigator. 
-![**a**, The identification and detailed characterization of the major resistance gene Rmg8 along with its evolutionary relationship with the powdery mildew resistance gene Pm4f, both of which recognize the common effector gene AVR-Rmg8. **b**, The possible introgression of Rmg8 with other R genes for combating wheat blast disease through marker-assisted molecular breeding.](assets/img/test_2.png)
+![**a**, The identification and detailed characterization of the major resistance gene Rmg8 and its evolutionary relationship with the powdery mildew resistance gene Pm4f, both of which recognize the common effector gene AVR-Rmg8. **b**, The possible introgression of Rmg8 with other R genes for combating wheat blast disease through marker-assisted molecular breeding.](assets/img/test_2.png)
 
 
 
