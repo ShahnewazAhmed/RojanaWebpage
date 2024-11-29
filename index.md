@@ -25,7 +25,8 @@ With a solid foundation in agricultural science and biotechnology, I have spearh
 I am currently working on a research project with [Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam), ..................
 
 ### **Blast Resistance in Wheat**
-I have dedicated significant efforts to developing wheat varieties resistant to blast disease. My master’s thesis focused on integrating the *Rmg8* resistance gene from winter wheat (genotype S-615) into the Bangladeshi spring wheat variety BARI Gom 33. Through bioassays and marker-assisted screening, I successfully developed resistant lines, making it the first deployment of *Rmg8*-integrated wheat in Bangladesh. This project was funded by the Research Management Wing (RMW) at BSMRAU, where I served as the Principal Investigator.
+I have dedicated significant efforts to developing wheat varieties resistant to blast disease. My master’s thesis focused on integrating the *Rmg8* resistance gene from winter wheat (genotype S-615) into the Bangladeshi spring wheat variety BARI Gom 33. Through bioassays and marker-assisted screening, I successfully developed resistant lines, making it the first deployment of *Rmg8*-integrated wheat in Bangladesh. This project was funded by the Research Management Wing (RMW) at BSMRAU, where I served as the Principal Investigator. 
+![Alt text](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41477-024-01690-3/MediaObjects/41477_2024_1690_Fig1_HTML.png?as=webp)
 
 ### **Pathogen Management and Bioactive Compounds**
 As a Research Assistant in Dr. Tofazzal Islam’s team, I worked on isolating and characterizing fungal pathogens, including *Magnaporthe oryzae Triticum* (MoT) and *Bipolaris sorokiniana*. I also explored bacterial bioactive compounds as sustainable solutions for managing fungal diseases.
@@ -70,16 +71,16 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 
 ### Graduate  
 
-   - ** Master of Science, Biotechnology and Genetic Engineering ** - (_January 2022 - December 2024_)
+   - **<span style="color:#33bbff">Master of Science, Biotechnology and Genetic Engineering</span>** - (_January 2022 - December 2024_)
    - Institute of Biotechnology (IBGE), Bangabandhu Sheikh Mujibur Rahman Agricultural University BSMRAU 
         - Academic Thesis: Resistance and yield performance on advanced wheat lines carrying 2NS translocation and _RMG8_ gene
-        - CGPA: 4.00/4.00 (Ranked .... )
+        - CGPA: **4.00/4.00** (Ranked .... )
 
 ### Undergraduate  
 
-   - **Bachelor of Science, Agriculture** - (_January 2017 - December 2021_)
+   - **<span style="color:#33bbff">Bachelor of Science, Agriculture</span>** - (_January 2017 - December 2021_)
    -  Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU)** 
-      - CGPA: 3.88/4.00 (Ranked .... in my major, top ... across all majors in the Faculty of Agriculture)
+      - CGPA: **3.873/4.00** (Ranked .... in my major, top ... across all majors in the Faculty of Agriculture)
    
 ---
 
