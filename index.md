@@ -20,7 +20,7 @@ With a solid foundation in agricultural science and biotechnology, I have spearh
 
 ## Overview of My Research
 
-## Current Work
+### Current Work
 
 I am currently working on a research project with [Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam), ..................
 
@@ -44,6 +44,14 @@ Islam, T., **Azad, R.B**. . Nat. Plants 10, 836–837 (2024).
 2. [Horizontal gene transfer from plant to whitefly.](https://doi.org/10.1016/j.tibtech.2023.01.007)
 Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). Trends in Biotechnology, 41(7), 853-856.
 
+## Presentations
+
+1. [Blast disease resistance of wheat genotypes carrying blast resistance genes _RMG8_, _RMGGR119_, and _2NS_ translocation in the field.](https://doi.org/10.13140/RG.2.2.30677.23521) Ali, J., Haque, A., **Azad, R.**, Gupta, D., & Islam, T. (2023).
+
+2. [Development of a durable blast resistant wheat variety by stacking of blast-resistance genes, rmg8 and 2ns translocation.](https://www.researchgate.net/publication/383213182_Development_of_a_Durable_Blast_Resistant_Wheat_Variety_by_Stacking_of_blast-resistance_genes_Rmg8_and_2NS_Translocation) **Azad, R.**, Muzahid, A., Muzahid, M., Roy, C., Al, A., Rahat, A., Haque, A., Gupta, D., Gupta, & Islam, T. (2023).
+
+3.  [Marker-assisted breeding for a durable blast resistant wheat variety by introgression of _RMG8_ gene into bari gom-33 carrying a _2NS_ translocation.](https://www.researchgate.net/publication/370943598_Marker-assisted_breeding_for_a_durable_blast_resistant_wheat_variety_by_introgression_of_Rmg8_gene_into_BARI_Gom-33_carrying_a_2NS_translocation) **Azad, R.**, Muzahid, A., Roy, P., Rahat, A., Haque, M., Gupta, D., & Islam, T. (2022).
+
 
 # <span style="color:#33bbff">Academics</span>
 
@@ -64,8 +72,8 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 ### Graduate  
 
    - **Master of Science, Biotechnology and Genetic Engineering from Institute of Biotechnology and Genetic Engineering (IBGE), BSMRAU** - (_January 2022 - December 2024_)
-   - Academic Thesis: Resistance and yield performance on advanced wheat lines carrying 2NS translocation and _RMG8_ gene
-      - CGPA: 4.00/4.00 (Ranked .... )
+        - Academic Thesis: Resistance and yield performance on advanced wheat lines carrying 2NS translocation and _RMG8_ gene
+        - CGPA: 4.00/4.00 (Ranked .... )
 
 ### Undergraduate  
 
