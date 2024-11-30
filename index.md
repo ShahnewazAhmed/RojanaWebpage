@@ -9,11 +9,12 @@ With a solid foundation in agricultural science and biotechnology, I have spearh
 ---
 
 ### My Interests
-- Molecular biology and genetics  
-- Plant-pathogen interactions  
-- Sustainable agricultural solutions  
-- CRISPR and genome editing technologies  
-- Quantitative evolutionary microbiology
+ - Microbial Genomics and Metagenomics
+ - Omics approaches
+ - Genome editing and Synthetic biology
+ - Host-microbes interaction
+ - Rapid disease diagnostic
+ - CRISPR/Cas system.
 
 
 # <span style="color:#33bbff">Research</span>
