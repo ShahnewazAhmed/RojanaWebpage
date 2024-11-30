@@ -58,17 +58,7 @@ Diseases like wheat blast pose a serious threat to global food security, especia
 
 In essence, this research serves as a shining example of how science can address real-world challenges, ensuring that humanity is better prepared to feed a growing population in the face of changing climates and evolving pathogens.
 
-
-
-
-
-
-
-
-### **Collaborations**
-I have collaborated with researchers in Japan and Canada to genotype advanced wheat lines, expanding the scope and impact of my work on global agricultural challenges.
-
-### Research Experience
+## Research Experience
 
 **<span style="color:#33bbff">Identification of Novel Blast Resistant Wheat Lines Carrying _2NS_ Translocation and _Rmg8_ in F3 Population of Introgressed BARI Gom 33</span>**
 
