@@ -46,6 +46,7 @@ I have collaborated with researchers in Japan and Canada to genotype advanced wh
 **<span style="color:#33bbff">Identification of Novel Blast Resistant Wheat Lines Carrying _2NS_ Translocation and _Rmg8_ in F3 Population of Introgressed BARI Gom 33</span>**
 
 **Position:** Principal Investigator (PI) of the Innovation Project _(July 2022 - June 2023)_
+
 **Supervisor:** _[Prof. Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)_  
 
 **Job Description:**  
@@ -63,6 +64,7 @@ Developing a blast disease-resistant wheat variety by introgressing the *Rmg8* r
 **<span style="color:#33bbff">Development of Novel Blast-Resistant Wheat Varieties for Bangladesh by Mutation Breeding </span>**
 
 **Position:** Research Assistant _(January 2022 - June 2023)_
+
 **Supervisor:** [Prof. Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)
 
 **Job Description:**  
@@ -80,6 +82,7 @@ Mutagenesis has not been utilized in wheat for blast resistance. Therefore, this
 **<span style="color:#33bbff">Management of Wheat Blast Disease by Volatile Compounds from Plant Endophytic Bacteria </span>**
 
 **Position:** Research Assistant  _(December 2023 - November 2024)_
+
 **Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)
 
 **Job Description:** Developing a biocontrol strategy against blast disease by investigating the anti-fungal activity of 3-Methyl-pentanoic acid (3MP), a VOC produced by *Bacillus safensis*, to induce systemic resistance in wheat.  
@@ -94,6 +97,7 @@ Mutagenesis has not been utilized in wheat for blast resistance. Therefore, this
 **<span style="color:#33bbff">Characterization of *Bipolaris sorokiniana* causing Spot Blotch Disease of wheat and Its Novel Biocontrol Strategies </span>**
 
 **Position:** Research Assistant _(February 2024 - December 2024)_
+
 **Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)
 
 **Job Description:** Molecular and pathogenic characterization of *Bipolaris sorokiniana* causing Spot Blotch Disease of wheat. We again explored biological control strategies utilizing bacterial isolates that we previously characterized.  
