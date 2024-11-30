@@ -40,6 +40,76 @@ I contributed to a mutation breeding project, where we screened M4-generation wh
 ### **Collaborations**
 I have collaborated with researchers in Japan and Canada to genotype advanced wheat lines, expanding the scope and impact of my work on global agricultural challenges.
 
+### Research Experience
+
+** Identification of Novel Blast Resistant Wheat Lines Carrying 2NS Translocation and Rmg8 in F3 Population of Introgressed BARI Gom 33 **
+
+**Position:** Principal Investigator (PI) of the Innovation Project  
+**Supervisor:** _[Prof. Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)_  
+**Duration:** Jul ’22 - Jun ’23  
+
+**Job Description:**  
+Developing a blast disease-resistant wheat variety by introgressing the *Rmg8* resistance gene from winter wheat genotype S-615 into the *2NS* background of a Bangladeshi spring wheat variety BARI Gom 33, using bioassay and marker-assisted selection to stack two resistance genes in a single genotype.  
+
+**Research Paper:**  
+Manuscript in progress  
+
+**Techniques Used:**  
+- Marker-Assisted Selection (Plant DNA and RNA Extraction PCR with *Rmg8*-specific markers (KM65 and KM171) and a *2NS*-specific marker (VENTRUIP-F/LN2-R), Gel Documentation)  
+- Bioassay with a virulent isolate of *MoT* (BTJP4-5)  
+- Rapid detection of fungus from infected samples using PCRD strip  
+
+---
+
+** Development of Novel Blast-Resistant Wheat Varieties for Bangladesh by Mutation Breeding **
+
+**Position:** Research Assistant  
+**Supervisor:** [Prof. Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)
+**Duration:** Jan ’22 - Jun ’23  
+
+**Job Description:**  
+Mutagenesis has not been utilized in wheat for blast resistance. Therefore, this study focused on developing resistant lines compared to the control parent through gamma-ray irradiation, X-ray irradiation, and ion beam irradiation, offering potential solutions to address the emerging blast threat.  
+
+**Research Paper:**  
+Manuscript in progress  
+
+**Techniques Used:**  
+- Seed treatment with irradiation  
+- Bioassay with a virulent isolate of *MoT* (BTJP4-5)  
+- Rapid detection of fungus from infected samples using PCRD strip  
+
+** Management of Wheat Blast Disease by Volatile Compounds from Plant Endophytic Bacteria **
+
+**Position:** Research Assistant  
+**Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)
+**Duration:** Dec '23 - Nov '24
+
+**Job Description:** Developing a biocontrol strategy against blast disease by investigating the anti-fungal activity of 3-Methyl-pentanoic acid (3MP), a VOC produced by *Bacillus safensis*, to induce systemic resistance in wheat.  
+**Research Paper:** Manuscript in progress  
+**Techniques used:**
+- In vitro assay of compound against MoT fungus
+- In vivo assay of the compound by inoculating wheat seedlings with a virulent isolate of MoT (BTJP4-5)
+- Compound assay in both pot experiment and field experiment
+
+### Characterization of *Bipolaris sorokiniana* causing Spot Blotch Disease of wheat and Its Novel Biocontrol Strategies
+
+**Position:** Research Assistant  
+**Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)  
+**Duration:** Feb '24 - Dec '24
+
+**Job Description:** Molecular and pathogenic characterization of *Bipolaris sorokiniana* causing Spot Blotch Disease of wheat. We again explored biological control strategies utilizing bacterial isolates that we previously characterized.  
+**Research Paper:** Manuscript in progress  
+**Techniques used:**
+- Fungal isolation from diseased sample
+- Bacteria isolation
+- Koch’s postulation
+- Fungal DNA extraction                                  - Bacterial DNA extraction
+- Sanger sequencing of fungus using ITS primer
+- 16s Sanger sequencing of bacteria
+- Oxidase and catalase tests
+- Gram staining
+- Biofilm formation assays
+
 ## Publications & Preprints
 
 1. [Rmg8 gene against wheat blast.](https://doi.org/10.1038/s41477-024-01690-3) Islam, T., **Azad, R.B**. . Nat. Plants 10, 836–837 (2024).
