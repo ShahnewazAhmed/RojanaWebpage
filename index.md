@@ -47,7 +47,7 @@ I have collaborated with researchers in Japan and Canada to genotype advanced wh
 
 **Position:** Principal Investigator (PI) of the Innovation Project _(July 2022 - June 2023)_
 
-**Supervisor:** _[Prof. Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)_  
+**Supervisor:** [Prof. Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)  
 
 **Job Description:**  
 Developing a blast disease-resistant wheat variety by introgressing the *Rmg8* resistance gene from winter wheat genotype S-615 into the *2NS* background of a Bangladeshi spring wheat variety BARI Gom 33, using bioassay and marker-assisted selection to stack two resistance genes in a single genotype.  
@@ -86,7 +86,9 @@ Mutagenesis has not been utilized in wheat for blast resistance. Therefore, this
 **Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)
 
 **Job Description:** Developing a biocontrol strategy against blast disease by investigating the anti-fungal activity of 3-Methyl-pentanoic acid (3MP), a VOC produced by *Bacillus safensis*, to induce systemic resistance in wheat.  
+
 **Research Paper:** Manuscript in progress  
+
 **Techniques used:**
 - In vitro assay of compound against MoT fungus
 - In vivo assay of the compound by inoculating wheat seedlings with a virulent isolate of MoT (BTJP4-5)
@@ -101,7 +103,9 @@ Mutagenesis has not been utilized in wheat for blast resistance. Therefore, this
 **Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)
 
 **Job Description:** Molecular and pathogenic characterization of *Bipolaris sorokiniana* causing Spot Blotch Disease of wheat. We again explored biological control strategies utilizing bacterial isolates that we previously characterized.  
+
 **Research Paper:** Manuscript in progress  
+
 **Techniques used:**
 - Fungal isolation from diseased sample
 - Bacteria isolation
