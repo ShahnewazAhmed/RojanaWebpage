@@ -51,8 +51,7 @@ I have collaborated with researchers in Japan and Canada to genotype advanced wh
 **Job Description:**  
 Developing a blast disease-resistant wheat variety by introgressing the *Rmg8* resistance gene from winter wheat genotype S-615 into the *2NS* background of a Bangladeshi spring wheat variety BARI Gom 33, using bioassay and marker-assisted selection to stack two resistance genes in a single genotype.  
 
-**Research Paper:**  
-Manuscript in progress  
+**Research Paper:**  Manuscript in progress  
 
 **Techniques Used:**  
 - Marker-Assisted Selection (Plant DNA and RNA Extraction PCR with *Rmg8*-specific markers (KM65 and KM171) and a *2NS*-specific marker (VENTRUIP-F/LN2-R), Gel Documentation)  
@@ -70,8 +69,7 @@ Manuscript in progress
 **Job Description:**  
 Mutagenesis has not been utilized in wheat for blast resistance. Therefore, this study focused on developing resistant lines compared to the control parent through gamma-ray irradiation, X-ray irradiation, and ion beam irradiation, offering potential solutions to address the emerging blast threat.  
 
-**Research Paper:**  
-Manuscript in progress  
+**Research Paper:**  Manuscript in progress  
 
 **Techniques Used:**  
 - Seed treatment with irradiation  
@@ -98,7 +96,7 @@ Manuscript in progress
 **<span style="color:#33bbff">Characterization of *Bipolaris sorokiniana* causing Spot Blotch Disease of wheat and Its Novel Biocontrol Strategies </span>**
 
 **Position:** Research Assistant  
-**Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)  
+**Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)
 **Duration:** Feb '24 - Dec '24
 
 **Job Description:** Molecular and pathogenic characterization of *Bipolaris sorokiniana* causing Spot Blotch Disease of wheat. We again explored biological control strategies utilizing bacterial isolates that we previously characterized.  
