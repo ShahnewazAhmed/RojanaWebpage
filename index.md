@@ -42,7 +42,7 @@ I have collaborated with researchers in Japan and Canada to genotype advanced wh
 
 ### Research Experience
 
-** Identification of Novel Blast Resistant Wheat Lines Carrying 2NS Translocation and Rmg8 in F3 Population of Introgressed BARI Gom 33 **
+**<span style="color:#33bbff">Identification of Novel Blast Resistant Wheat Lines Carrying _2NS_ Translocation and _Rmg8_ in F3 Population of Introgressed BARI Gom 33</span>**
 
 **Position:** Principal Investigator (PI) of the Innovation Project  
 **Supervisor:** _[Prof. Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)_  
@@ -61,7 +61,7 @@ Manuscript in progress
 
 ---
 
-** Development of Novel Blast-Resistant Wheat Varieties for Bangladesh by Mutation Breeding **
+**<span style="color:#33bbff">Development of Novel Blast-Resistant Wheat Varieties for Bangladesh by Mutation Breeding</span>**
 
 **Position:** Research Assistant  
 **Supervisor:** [Prof. Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)
@@ -78,7 +78,9 @@ Manuscript in progress
 - Bioassay with a virulent isolate of *MoT* (BTJP4-5)  
 - Rapid detection of fungus from infected samples using PCRD strip  
 
-** Management of Wheat Blast Disease by Volatile Compounds from Plant Endophytic Bacteria **
+---
+
+**<span style="color:#33bbff">Management of Wheat Blast Disease by Volatile Compounds from Plant Endophytic Bacteria</span>**
 
 **Position:** Research Assistant  
 **Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)
@@ -91,7 +93,9 @@ Manuscript in progress
 - In vivo assay of the compound by inoculating wheat seedlings with a virulent isolate of MoT (BTJP4-5)
 - Compound assay in both pot experiment and field experiment
 
-### Characterization of *Bipolaris sorokiniana* causing Spot Blotch Disease of wheat and Its Novel Biocontrol Strategies
+---
+
+**<span style="color:#33bbff">Characterization of *Bipolaris sorokiniana* causing Spot Blotch Disease of wheat and Its Novel Biocontrol Strategies</span>**
 
 **Position:** Research Assistant  
 **Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)  
@@ -103,7 +107,8 @@ Manuscript in progress
 - Fungal isolation from diseased sample
 - Bacteria isolation
 - Koch’s postulation
-- Fungal DNA extraction                                  - Bacterial DNA extraction
+- Fungal DNA extraction
+- Bacterial DNA extraction
 - Sanger sequencing of fungus using ITS primer
 - 16s Sanger sequencing of bacteria
 - Oxidase and catalase tests
@@ -167,13 +172,13 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
    - **<span style="color:#33bbff">Master of Science, Biotechnology and Genetic Engineering</span>** - (_January 2022 - December 2024_)
    - Institute of Biotechnology (IBGE), Bangabandhu Sheikh Mujibur Rahman Agricultural University BSMRAU 
         - Academic Thesis: Resistance and yield performance on advanced wheat lines carrying 2NS translocation and _RMG8_ gene
-        - CGPA: **4.00/4.00** (Ranked .... )
+        - CGPA: **4.00/4.00** 
 
 ### Undergraduate  
 
    - **<span style="color:#33bbff">Bachelor of Science, Agriculture</span>** - (_January 2017 - December 2021_)
    -  Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU)** 
-      - CGPA: **3.873/4.00** (Ranked .... in my major, top ... across all majors in the Faculty of Agriculture)
+      - CGPA: **3.879/4.00** 
    
 ---
 
