@@ -21,22 +21,49 @@ With a solid foundation in agricultural science and biotechnology, I have spearh
 
 ## Overview of My Research
 
-### Current Work
+### Combating Wheat Blast for Global Food Security
+Wheat is one of the most important crops for ensuring global food security, providing sustenance to billions of people worldwide. However, this critical food source is under threat from a devastating fungal disease called wheat blast. Caused by Magnaporthe oryzae Triticum (MoT), this disease can wipe out entire wheat fields within days under favorable conditions, particularly in warm and humid climates. First identified in Brazil in the 1980s, wheat blast has since spread to South America, Africa, and South Asia, including Bangladesh. Its ability to spread rapidly and resist chemical fungicides makes it a major challenge for farmers and researchers alike.
 
-I am currently working on a research project with [Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam), ..................
+### The Challenge
+Controlling wheat blast with chemical fungicides has proven unreliable. The fungus evolves quickly, developing resistance to these chemicals, leaving farmers with limited options. Traditional breeding methods for disease-resistant varieties are often slow and not always effective, as environmental conditions can weaken the resistance of certain genes. Scientists have discovered 10 wheat blast resistance genes so far, but many lose their effectiveness under high temperatures, a problem that is becoming more pressing due to climate change.
 
-### **Blast Resistance in Wheat**
-I have dedicated significant efforts to developing wheat varieties resistant to blast disease. My master’s thesis focused on integrating the *Rmg8* resistance gene from winter wheat (genotype S-615) into the Bangladeshi spring wheat variety BARI Gom 33. Through bioassays and marker-assisted screening, I successfully developed resistant lines, making it the first deployment of *Rmg8*-integrated wheat in Bangladesh. This project was funded by the Research Management Wing (RMW) at BSMRAU, where I served as the Principal Investigator. 
-![**a**, The identification and detailed characterization of the major resistance gene Rmg8 and its evolutionary relationship with the powdery mildew resistance gene Pm4f, both of which recognize the common effector gene AVR-Rmg8. **b**, The possible introgression of Rmg8 with other R genes for combating wheat blast disease through marker-assisted molecular breeding.](assets/img/test_2.png)
+### The Goal
+This research aimed to tackle wheat blast by developing a wheat variety that combines two promising resistance genes: Rmg8 and 2NS translocation. By stacking these genes into a single wheat variety, the goal was to create a durable and long-lasting solution to wheat blast that would remain effective even under challenging environmental conditions.
 
+### The Approach
+To achieve this goal, the research focused on advanced breeding techniques such as marker-assisted selection and bioassays. In marker-assisted selection, scientists use specific genetic markers to identify plants carrying the desired resistance genes. This method allows for precise and efficient breeding, ensuring that the resulting plants inherit the desired traits.
 
+The process involved crossing a winter wheat genotype, S-615 (which carries the Rmg8 gene), with a Bangladeshi spring wheat variety, BARI Gom 33 (which carries the 2NS translocation gene). The team then carefully selected and tested the offspring over multiple generations to ensure the combined presence of both resistance genes. Field trials were conducted to evaluate the plants' resistance to wheat blast and their overall yield performance.
 
-### **Pathogen Management and Bioactive Compounds**
-As a Research Assistant in Dr. Tofazzal Islam’s team, I worked on isolating and characterizing fungal pathogens, including *Magnaporthe oryzae Triticum* (MoT) and *Bipolaris sorokiniana*. I also explored bacterial bioactive compounds as sustainable solutions for managing fungal diseases.
+![image](assets/img/test_2.png)
+**(Top)**, The identification and detailed characterization of the major resistance gene Rmg8 and its evolutionary relationship with the powdery mildew resistance gene Pm4f, both of which recognize the common effector gene AVR-Rmg8. 
 
-### **Mutation Breeding for Blast Resistance**
-I contributed to a mutation breeding project, where we screened M4-generation wheat for blast resistance, identifying robust mutant populations resistant to disease.
+**(Bottom)**, The possible introgression of Rmg8 with other R genes for combating wheat blast disease through marker-assisted molecular breeding.
+
+### Key Findings
+The research led to the development of 16 advanced wheat lines that successfully combined the Rmg8 and 2NS resistance genes. These plants showed significant resistance to wheat blast under real-world field conditions, a critical step toward creating a durable and high-yielding variety for farmers.
+
+Additionally, the study demonstrated that combining resistance genes can be more effective than relying on a single gene, especially in environments where temperature and humidity fluctuate. This finding highlights the importance of gene stacking as a long-term solution to combat diseases like wheat blast.
+
 ![Blast in different temperatures](assets/img/testy.gif)
+
+### Broader Implications
+This work not only advances wheat blast research but also contributes to the larger goal of sustainable agriculture. By developing disease-resistant varieties, farmers can reduce their reliance on chemical fungicides, which are expensive, harmful to the environment, and often ineffective. Moreover, these new wheat varieties can help ensure a stable food supply in regions most vulnerable to the impacts of climate change and crop diseases.
+
+### Beyond Wheat Blast
+The researcher also explored other innovative approaches to combat plant diseases, such as using natural compounds produced by bacteria to fight fungal infections. For example, a volatile organic compound (VOC) called 3-Methyl-pentanoic acid (3MP), derived from the bacteria Bacillus safensis, was studied for its ability to enhance the plant's own defenses against wheat blast. This research opens doors to environmentally friendly and sustainable biocontrol strategies for crop protection.
+
+### Why This Matters
+Diseases like wheat blast pose a serious threat to global food security, especially in developing countries where agriculture is a cornerstone of the economy. Research like this not only provides solutions to pressing agricultural problems but also empowers countries like Bangladesh to take proactive steps in protecting their food supply. By integrating cutting-edge genetic techniques with sustainable farming practices, this work offers hope for a future where crops are more resilient, food supplies are secure, and farming is less reliant on harmful chemicals.
+
+In essence, this research serves as a shining example of how science can address real-world challenges, ensuring that humanity is better prepared to feed a growing population in the face of changing climates and evolving pathogens.
+
+
+
+
+
+
+
 
 ### **Collaborations**
 I have collaborated with researchers in Japan and Canada to genotype advanced wheat lines, expanding the scope and impact of my work on global agricultural challenges.
@@ -49,8 +76,7 @@ I have collaborated with researchers in Japan and Canada to genotype advanced wh
 
 **Supervisor:** [Prof. Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)  
 
-**Job Description:**  
-Developing a blast disease-resistant wheat variety by introgressing the *Rmg8* resistance gene from winter wheat genotype S-615 into the *2NS* background of a Bangladeshi spring wheat variety BARI Gom 33, using bioassay and marker-assisted selection to stack two resistance genes in a single genotype.  
+**Job Description:** Developing a blast disease-resistant wheat variety by introgressing the *Rmg8* resistance gene from winter wheat genotype S-615 into the *2NS* background of a Bangladeshi spring wheat variety BARI Gom 33, using bioassay and marker-assisted selection to stack two resistance genes in a single genotype.  
 
 **Research Paper:**  Manuscript in progress  
 
@@ -67,8 +93,7 @@ Developing a blast disease-resistant wheat variety by introgressing the *Rmg8* r
 
 **Supervisor:** [Prof. Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)
 
-**Job Description:**  
-Mutagenesis has not been utilized in wheat for blast resistance. Therefore, this study focused on developing resistant lines compared to the control parent through gamma-ray irradiation, X-ray irradiation, and ion beam irradiation, offering potential solutions to address the emerging blast threat.  
+**Job Description:**  Mutagenesis has not been utilized in wheat for blast resistance. Therefore, this study focused on developing resistant lines compared to the control parent through gamma-ray irradiation, X-ray irradiation, and ion beam irradiation, offering potential solutions to address the emerging blast threat.  
 
 **Research Paper:**  Manuscript in progress  
 
@@ -180,7 +205,7 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 ### Undergraduate  
 
    - **<span style="color:#33bbff">Bachelor of Science, Agriculture</span>** - (_January 2017 - December 2021_)
-   -  Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU)** 
+   -  Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU) 
       - CGPA: **3.879/4.00** 
    
 ---
