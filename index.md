@@ -189,7 +189,7 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 
    - **<span style="color:#33bbff">Master of Science, Biotechnology and Genetic Engineering</span>** - (_January 2022 - December 2024_)
    - Institute of Biotechnology (IBGE), Bangabandhu Sheikh Mujibur Rahman Agricultural University BSMRAU 
-        - Academic Thesis: Resistance and yield performance on advanced wheat lines carrying 2NS translocation and _RMG8_ gene
+        - Academic Thesis: <ins>Resistance and yield performance on advanced wheat lines carrying 2NS translocation and _RMG8_ gene </ins>
         - CGPA: **4.00/4.00** 
 
 ### Undergraduate  
