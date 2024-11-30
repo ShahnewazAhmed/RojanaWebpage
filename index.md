@@ -187,10 +187,11 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 
 ## Awards, Prizes, and Scholarships
 
-- **Innovation Project Grant (Principal Investigator)**  
-  Funded by Research Management Wing, BSMRAU  
+- **National Science and Technology Fellowship**, *Ministry of Science and Technology, People's Republic of Bangladesh* (2022-2023)
+- **BSMRAU Innovation Fund**, *Research Management Wing (RMW), BSMRAU* (2023)
+- **Merit Scholarship from Faculty of Agriculture**, *BSMRAU* (2017-2020)
+  - At undergraduate education level
+- **Merit Scholarship from Faculty of Graduate Studies**, *BSMRAU* (2022)
 
-- **Merit Scholarships**  
-  Awarded for academic excellence during undergraduate and postgraduate studies  
 
 
