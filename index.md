@@ -61,7 +61,7 @@ Manuscript in progress
 
 ---
 
-**<span style="color:#33bbff">Development of Novel Blast-Resistant Wheat Varieties for Bangladesh by Mutation Breeding</span>**
+**<span style="color:#33bbff">Development of Novel Blast-Resistant Wheat Varieties for Bangladesh by Mutation Breeding </span>**
 
 **Position:** Research Assistant  
 **Supervisor:** [Prof. Dr. Toffazal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)
@@ -80,7 +80,7 @@ Manuscript in progress
 
 ---
 
-**<span style="color:#33bbff">Management of Wheat Blast Disease by Volatile Compounds from Plant Endophytic Bacteria</span>**
+**<span style="color:#33bbff">Management of Wheat Blast Disease by Volatile Compounds from Plant Endophytic Bacteria </span>**
 
 **Position:** Research Assistant  
 **Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)
@@ -95,7 +95,7 @@ Manuscript in progress
 
 ---
 
-**<span style="color:#33bbff">Characterization of *Bipolaris sorokiniana* causing Spot Blotch Disease of wheat and Its Novel Biocontrol Strategies</span>**
+**<span style="color:#33bbff">Characterization of *Bipolaris sorokiniana* causing Spot Blotch Disease of wheat and Its Novel Biocontrol Strategies </span>**
 
 **Position:** Research Assistant  
 **Supervisor:** [Prof. Dr. Dipali Rani Gupta](https://bsmrau.edu.bd/dipali/)  
