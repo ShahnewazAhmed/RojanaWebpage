@@ -39,6 +39,7 @@ The process involved crossing a winter wheat genotype, S-615 (which carries the 
 The identification and detailed characterization of the major resistance gene _Rmg8_ and its evolutionary relationship with the powdery mildew resistance gene _Pm4f_, both of which recognize the common effector gene _AVR-Rmg8_. 
 
 ![image2](assets/img/part2.png)
+
 The possible introgression of _Rmg8_ with other R genes for combating wheat blast disease through marker-assisted molecular breeding.
 
 ### Key Findings
