@@ -180,7 +180,7 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
   - I led the development of blast-resistant wheat varieties through bioassays, field tests, and marker-assisted breeding.
   
 - [Institute of Biotechnology and Genetic Engineering (IBGE), Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU)](https://ibge.bsmrau.edu.bd/) - (_January 2022 - December 2024_)
-  - Research Assistant (RA) under [Dr. Tofazzal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)
+  - Research Assistant (RA) under [Prof. Dr. Tofazzal Islam](https://en.wikipedia.org/wiki/Tofazzal_Islam)
   - I conducted pathogen characterization, fungal management research, and resistance screening.  
 
 ---
@@ -191,7 +191,7 @@ Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). T
 
    - **<span style="color:#33bbff">Master of Science, Biotechnology and Genetic Engineering</span>** - (_January 2022 - December 2024_)
      - Institute of Biotechnology (IBGE), Bangabandhu Sheikh Mujibur Rahman Agricultural University BSMRAU 
-          - Academic Thesis: <ins>Resistance and yield performance on advanced wheat lines carrying 2NS translocation and _RMG8_ gene </ins>
+          - Academic Thesis: <ins>Resistance and yield performance on advanced wheat lines carrying _2NS_ translocation and _RMG8_ gene </ins>
           - CGPA: **4.00/4.00** 
 
 ### Undergraduate  
