@@ -35,10 +35,11 @@ To achieve this goal, the research focused on advanced breeding techniques such 
 
 The process involved crossing a winter wheat genotype, S-615 (which carries the _Rmg8_ gene), with a Bangladeshi spring wheat variety, BARI Gom 33 (which carries the 2NS translocation gene). The team then carefully selected and tested the offspring over multiple generations to ensure the combined presence of both resistance genes. Field trials were conducted to evaluate the plants' resistance to wheat blast and their overall yield performance.
 
-![image](assets/img/test_2.png)
-**(Top)**, The identification and detailed characterization of the major resistance gene _Rmg8_ and its evolutionary relationship with the powdery mildew resistance gene _Pm4f_, both of which recognize the common effector gene _AVR-Rmg8_. 
+![image](assets/img/part1.png)
+The identification and detailed characterization of the major resistance gene _Rmg8_ and its evolutionary relationship with the powdery mildew resistance gene _Pm4f_, both of which recognize the common effector gene _AVR-Rmg8_. 
 
-**(Bottom)**, The possible introgression of _Rmg8_ with other R genes for combating wheat blast disease through marker-assisted molecular breeding.
+![image2](assets/img/part2.png)
+The possible introgression of _Rmg8_ with other R genes for combating wheat blast disease through marker-assisted molecular breeding.
 
 ### Key Findings
 The research led to the development of 16 advanced wheat lines that successfully combined the _Rmg8_ and 2NS resistance genes. These plants showed significant resistance to wheat blast under real-world field conditions, a critical step toward creating a durable and high-yielding variety for farmers.
