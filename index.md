@@ -142,8 +142,7 @@ In essence, this research serves as a shining example of how science can address
         <summary><strong>Abstract</strong></summary>
         Characterization of <i>Rmg8</i>, the major resistancegene for wheat blast found in common wheat,brought a surprise: it is a variant of <i>Pm4</i>, aresistance gene for powdery mildew disease. Both genes recognize the AVR-<i>Rm8</i> gene ofthe wheat blast fungus <i>Magnaporthe oryzaepathotype Triticum</i> (MoT), which resultsin resistance against this pathogen. This discovery opens avenues for developing wheatvarieties to combat wheat blast disease. 
     </details>
-    <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a> <a href="https://openaccess.thecvf.com/content/WACV2024W/MAP-A/html/Sharma_Investigating_Weight-Perturbed_Deep_Neural_Networks_With_Application_in_Iris_Presentation_WACVW_2024_paper.html" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a> <a href="https://openaccess.thecvf.com/content/WACV2024W/MAP-A/papers/Sharma_Investigating_Weight-Perturbed_Deep_Neural_Networks_With_Application_in_Iris_Presentation_WACVW_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a> <a href="https://github.com/redwankarimsony/WeightPerturbation-MSU" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a> </div>
-
+    
 
 2. [Horizontal gene transfer from plant to whitefly.](https://doi.org/10.1016/j.tibtech.2023.01.007)
 Islam, T., **Azad, R. B.**, Kasfy, S. H., Rahman, A. A., & Khan, T. Z. (2023). Trends in Biotechnology, 41(7), 853-856.
